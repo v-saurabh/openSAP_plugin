@@ -1,0 +1,17 @@
+{
+	"applications": {
+		"MyFioriObject-display": {
+			"additionalInformation": "SAPUI5.Component=bookmarkplugin",
+			"applicationType": "URL",
+			"url": "https://www.sap.com",
+			"title": "SAP Homepage",
+			"description": "SAP Homepage"
+		}
+	},
+	"bootstrapPlugins": {
+		"bookmarkplugin": {
+			"component": "bookmarkplugin",
+			"url": "../../../../../"
+		}
+	}
+}
